@@ -1,17 +1,17 @@
 <h1 align="center">
-NpsApi (Net Promoter Score)
+Move It
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbalbix/NpsApi">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbalbix/move.it">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rbalbix/NpsApi">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rbalbix/move.it">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rbalbix/NpsApi">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rbalbix/move.it">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/rbalbix/NpsApi">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/rbalbix/move.it">
   
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rbalbix/NpsApi">
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rbalbix/move.it">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
@@ -29,13 +29,12 @@ NpsApi (Net Promoter Score)
 
 This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [Jest - TDD tests](https://jestjs.io)
+- [React](https://reactjs.org)
+- [Next JS](https://nextjs.org/)
 
 ## Project
 
-NpsApi is a project that aims to supply an API to calculate the NPS (Net Promoter Score) from user surveys.
+Move It is a project that aims to supply a countdown to break time.
 
 ## License
 
