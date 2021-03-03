@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+NpsApi (Net Promoter Score)
+</h1>
 
-## Getting Started
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbalbix/NpsApi">
 
-First, run the development server:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rbalbix/NpsApi">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rbalbix/NpsApi">
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/rbalbix/NpsApi">
+  
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rbalbix/NpsApi">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br>
 
-## Learn More
+## Technologies
 
-To learn more about Next.js, take a look at the following resources:
+This project was developed with the following technologies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Jest - TDD tests](https://jestjs.io)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Project
 
-## Deploy on Vercel
+NpsApi is a project that aims to supply an API to calculate the NPS (Net Promoter Score) from user surveys.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is under the MIT license.
+
+---
+
+<p>
+  Project developed during NLW4. Thanks to the entire Rocketseat team.
+</p>
+</br>
+
+---
+
+![rbalbix's github stats](https://github-readme-stats.vercel.app/api?username=rbalbix)
